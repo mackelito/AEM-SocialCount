@@ -1,4 +1,5 @@
 AEM-SocialCount
 ===============
 
-A Social Sharing component based on SocialCount by Filamentgroup
+A AEM CQ5 Social Sharing component based on SocialCount by Filamentgroup
+
